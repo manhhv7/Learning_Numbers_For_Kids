@@ -18,3 +18,9 @@
 - Điểm sao lưu bằng localStorage trên thiết bị; có thể mất nếu xóa dữ liệu website.
 - Luyện viết chỉ xác nhận có nét vẽ, chưa chấm độ chính xác hình dạng.
 - Mã nguồn được tự xây dựng, không sử dụng hình ảnh hoặc âm thanh độc quyền của ứng dụng tham khảo.
+
+## Phiên bản 2 (sửa lỗi)
+- Tìm đúng số: số lượng hình thay đổi theo câu hỏi, từ 1 đến 20.
+- Số lớn hơn: chỉ hiển thị hai lựa chọn trùng với hai số đang so sánh.
+- Service worker v2 ưu tiên cập nhật file mới khi có mạng, vẫn dùng cache khi offline.
+- Sau khi cập nhật GitHub Pages, mở lại game khi có mạng để nhận bản mới.
